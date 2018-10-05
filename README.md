@@ -88,29 +88,29 @@
 
 ## 预览
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\login.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/login.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\registe.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/registe.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\analysis.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/analysis.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\workplace.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/workplace.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\step-form.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/step-form.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\list-article.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/list-article.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\list-project.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/list-project.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\list-app.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/list-app.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\exception-403.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/exception-403.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\account-center.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/account-center.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\account-setting.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/account-setting.png)
 
-![](D:\develop\workspace\git\my-project\ant-design-vue-pro-plus\doc-images\result-success.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/result-success.png)
 
 以上是部分预览页面，如果查看全部页面，请直接访问预览地址
 
