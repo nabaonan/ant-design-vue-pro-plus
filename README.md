@@ -18,7 +18,7 @@
 - :triangular_ruler: **常见设计模式**：提炼自中后台应用的典型页面和场景
 - :rocket: **最新Vue技术栈**：Vue cli3 ， Ant Design Vue ， Vuex ， Vue-Router ，mockJs
 - :iphone: **响应式**：针对不同屏幕大小设计
-- :art: **主题**：可以自定义主题，默认为Vue绿，暂不支持动态切换主题，暂时支持手动设置主题色
+- :art: **主题**：可以自定义主题，默认为Vue绿，动态切换主题色和侧边栏颜色
 - :gear: **最佳实践**：良好的工程实践助您持续产出高质量代码
 - :1234: **Mock 数据**：本地模拟ajax数据
 
@@ -96,7 +96,11 @@
 
 ![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/workplace.png)
 
-![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/step-form.png)
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/theme1.png)
+
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/theme2.png)
+
+![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/theme3.png)
 
 ![](https://github.com/nabaonan/ant-design-vue-pro-plus/blob/master/doc-images/list-article.png)
 
